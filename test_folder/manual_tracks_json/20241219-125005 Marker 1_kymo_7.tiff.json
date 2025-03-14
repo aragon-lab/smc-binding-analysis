@@ -1,0 +1,276 @@
+{
+    "description": "",
+    "size": {
+        "height": 336,
+        "width": 1091
+    },
+    "tags": [],
+    "objects": [
+        {
+            "classTitle": "Track",
+            "description": "",
+            "tags": [],
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        100
+                    ],
+                    [
+                        18,
+                        100
+                    ],
+                    [
+                        49,
+                        97
+                    ]
+                ],
+                "interior": []
+            },
+            "shape": "line",
+            "geometryType": "line",
+            "labelerLogin": "AKS",
+            "updatedAt": "2025-02-06T13:53:13.730Z",
+            "createdAt": "2025-02-06T13:53:13.730Z",
+            "id": 1629459790,
+            "classId": 13702356
+        },
+        {
+            "classTitle": "Track",
+            "description": "",
+            "tags": [],
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        107
+                    ],
+                    [
+                        246,
+                        108
+                    ]
+                ],
+                "interior": []
+            },
+            "shape": "line",
+            "geometryType": "line",
+            "labelerLogin": "AKS",
+            "updatedAt": "2025-02-06T13:53:17.842Z",
+            "createdAt": "2025-02-06T13:53:17.842Z",
+            "id": 1629459795,
+            "classId": 13702356
+        },
+        {
+            "classTitle": "Track",
+            "description": "",
+            "tags": [],
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        123
+                    ],
+                    [
+                        299,
+                        125
+                    ]
+                ],
+                "interior": []
+            },
+            "shape": "line",
+            "geometryType": "line",
+            "labelerLogin": "AKS",
+            "updatedAt": "2025-02-06T13:53:20.423Z",
+            "createdAt": "2025-02-06T13:53:20.423Z",
+            "id": 1629459798,
+            "classId": 13702356
+        },
+        {
+            "classTitle": "Track",
+            "description": "",
+            "tags": [],
+            "points": {
+                "exterior": [
+                    [
+                        557,
+                        132
+                    ],
+                    [
+                        559,
+                        124
+                    ],
+                    [
+                        591,
+                        120
+                    ]
+                ],
+                "interior": []
+            },
+            "shape": "line",
+            "geometryType": "line",
+            "labelerLogin": "AKS",
+            "updatedAt": "2025-02-06T13:53:24.160Z",
+            "createdAt": "2025-02-06T13:53:24.160Z",
+            "id": 1629459803,
+            "classId": 13702356
+        },
+        {
+            "classTitle": "Track",
+            "description": "",
+            "tags": [],
+            "points": {
+                "exterior": [
+                    [
+                        761,
+                        109
+                    ],
+                    [
+                        1088,
+                        108
+                    ]
+                ],
+                "interior": []
+            },
+            "shape": "line",
+            "geometryType": "line",
+            "labelerLogin": "AKS",
+            "updatedAt": "2025-02-06T13:53:29.275Z",
+            "createdAt": "2025-02-06T13:53:29.275Z",
+            "id": 1629459806,
+            "classId": 13702356
+        },
+        {
+            "classTitle": "Track",
+            "description": "",
+            "tags": [],
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        212
+                    ],
+                    [
+                        194,
+                        202
+                    ],
+                    [
+                        203,
+                        211
+                    ],
+                    [
+                        208,
+                        226
+                    ],
+                    [
+                        214,
+                        241
+                    ],
+                    [
+                        222,
+                        245
+                    ],
+                    [
+                        229,
+                        240
+                    ]
+                ],
+                "interior": []
+            },
+            "shape": "line",
+            "geometryType": "line",
+            "labelerLogin": "AKS",
+            "updatedAt": "2025-02-06T13:53:36.911Z",
+            "createdAt": "2025-02-06T13:53:33.265Z",
+            "id": 1629459810,
+            "classId": 13702356
+        },
+        {
+            "classTitle": "Track",
+            "description": "",
+            "tags": [],
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        213
+                    ],
+                    [
+                        256,
+                        224
+                    ]
+                ],
+                "interior": []
+            },
+            "shape": "line",
+            "geometryType": "line",
+            "labelerLogin": "AKS",
+            "updatedAt": "2025-02-06T13:53:38.779Z",
+            "createdAt": "2025-02-06T13:53:38.779Z",
+            "id": 1629459814,
+            "classId": 13702356
+        },
+        {
+            "classTitle": "Track",
+            "description": "",
+            "tags": [],
+            "points": {
+                "exterior": [
+                    [
+                        1003,
+                        216
+                    ],
+                    [
+                        1087,
+                        216
+                    ]
+                ],
+                "interior": []
+            },
+            "shape": "line",
+            "geometryType": "line",
+            "labelerLogin": "AKS",
+            "updatedAt": "2025-02-06T13:53:41.780Z",
+            "createdAt": "2025-02-06T13:53:41.780Z",
+            "id": 1629459817,
+            "classId": 13702356
+        },
+        {
+            "classTitle": "Track",
+            "description": "",
+            "tags": [],
+            "points": {
+                "exterior": [
+                    [
+                        1059,
+                        186
+                    ],
+                    [
+                        1070,
+                        186
+                    ],
+                    [
+                        1077,
+                        187
+                    ],
+                    [
+                        1082,
+                        179
+                    ],
+                    [
+                        1088,
+                        181
+                    ]
+                ],
+                "interior": []
+            },
+            "shape": "line",
+            "geometryType": "line",
+            "labelerLogin": "AKS",
+            "updatedAt": "2025-02-06T13:53:47.379Z",
+            "createdAt": "2025-02-06T13:53:43.518Z",
+            "id": 1629459820,
+            "classId": 13702356
+        }
+    ],
+    "customBigData": {}
+}
