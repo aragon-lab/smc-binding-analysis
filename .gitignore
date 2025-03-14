@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 # Pylake data files
-.h5
+*.h5
