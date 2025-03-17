@@ -31,7 +31,7 @@ As with installation, Jupyter can be started either via the graphical Anaconda N
 
 #### From Powershell
 1. Start installed copy of "Anaconda Powershell Prompt"
-2. Use the following command to activate the smc-binding-analysis environment
+2. Use the following command to activate the *smc-binding-analysis* environment
 
     `conda activate smc-binding-analysis`
 
