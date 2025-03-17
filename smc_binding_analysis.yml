@@ -1,4 +1,4 @@
-name: smc_binding_analysis
+name: smc-binding-analysis
 channels:
   - sjcross
   - conda-forge
@@ -197,4 +197,3 @@ dependencies:
   - pip:
       - denseweight==0.1.2
       - kdepy==1.1.11
-prefix: /Users/sc13967/miniforge3/envs/smc_binding_analysis
