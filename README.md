@@ -5,21 +5,21 @@ Scripts used in the publication "Visualising binding of single SMC complexes to 
 The easiest way to download the scripts in this repository is by clicking the green "Code" button above and selecting "Download ZIP".  This will give access to the latest version of each notebook.
 
 ## Installation using Anaconda
-The smc-binding-analysis.yml file in this repository contains a list of the Python packages needed to run the notebooks.  It can be used to create a new Anaconda environment, which acts as a self-contained copy of Python that has all the relevant packages installed.  This environment can be created either using the Anaconda Navigator graphical interface or from Powershell.
+The environment.yml files in this repository contain a list of the Python packages needed to run the notebooks.  These can be used to create a new Anaconda environment, which acts as a self-contained copy of Python that has all the relevant packages installed.  This environment can be created either using the Anaconda Navigator graphical interface or from Powershell.  There are two environment.yml files, one for Mac and one for Windows.
 
 
 ### Installation using Anaconda's graphical interface 
 1. Install [Anaconda](https://www.anaconda.com/download/success)
 2. Start installed copy of "Anaconda Navigator"
-3. Inside Anaconda Navigator, click the "Environments" button on the left, then "Import" at the bottom of the list of existing environments.  Note: intially there will only be one called "root (base)".
-4. In the "Import new environment" window that opens, enter the environment name as "smc-binding-analysis" and select the "smc-binding-analysis.yml" file that you downloaded from this repository  
+3. Inside Anaconda Navigator, click the "Environments" button on the left, then "Import" at the bottom of the list of existing environments.  Note: initially there will only be one called "root (base)".
+4. In the "Import new environment" window that opens, enter the environment name as "smc-binding-analysis" and select the relevant "environment.yml" file that you downloaded from this repository
 
 ### Installation from Powershell
 1. Install [Anaconda](https://www.anaconda.com/download/success)
 2. Start installed copy of "Anaconda Powershell Prompt"
 3. Use the following command to create the environment:
     
-    - `conda env create -f [path to smc-binding-analysis.yml]`
+    - `conda env create -f [path to environment.yml]`
 
 
 ## Running notebooks
