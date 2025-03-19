@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/948591691.svg)](https://doi.org/10.5281/zenodo.15050842)
+
 # Scripts for SMC binding analysis
 Scripts used in the publication "Visualising binding of single SMC complexes to DNA substrates using combinational optical tweezers and fluorescence microscopy".
 
