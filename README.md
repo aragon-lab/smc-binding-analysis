@@ -43,4 +43,4 @@ As with installation, Jupyter can be started either via the graphical Anaconda N
     `jupyter lab`
 
 ## Running test images
-Each script is configured to run a provided test image, which is stored in the "test_folder" directory.  Due to the size of these files (~700 MB in total), these need to first be downloaded from Zenodo [link TBC].
+Each script is configured to run a provided test image, which is stored in the "test_folder" directory.  Due to the size of these files (~700 MB in total), these need to first be downloaded from [Zenodo](https://zenodo.org/records/15028071).
