@@ -1,2 +1,2 @@
-ID,dwell time (s)
-2.0,20.8896
+ID,dwell time (s),ssDNA_proportion,dsDNA_proportion,jDNA_proportion,ssDNA_length,dsDNA_length,jDNA_length,totalDNA_length,Kymo_length,Track_start_time,Date,Marker,Kymo
+2.0,20.8896,0.0,1.0,0.0,46.14708737205038,135.15206307161478,8,189.29915044366516,58.176,0.0384,test_folder,20241219-125005 Marker 1,8
