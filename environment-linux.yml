@@ -1,8 +1,8 @@
-name: base
+name: smc-binding-analysisx
 channels:
+  - sjcross
+  - conda-forge
   - defaults
-  - https://repo.anaconda.com/pkgs/main
-  - https://repo.anaconda.com/pkgs/r
 dependencies:
   - _libgcc_mutex=0.1
   - _openmp_mutex=5.1
@@ -95,4 +95,3 @@ dependencies:
   - zlib=1.2.13
   - zstandard=0.23.0
   - zstd=1.5.6
-prefix: /home/ubuntu/miniconda3
