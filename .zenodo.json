@@ -1,0 +1,34 @@
+{
+    "creators": [
+        {
+            "affiliation": "MRC Laboratory of Medical Sciences",
+            "name": "Koetje, Anno I."
+        },
+        {
+            "affiliation": "MRC Laboratory of Medical Sciences",
+            "name": "Fisher, Gemma L. M."
+        },
+        {
+            "affiliation": "MRC Laboratory of Medical Sciences",
+            "name": "Voulgaris, Menelaos"
+        },
+        {
+            "affiliation": "MRC Laboratory of Medical Sciences",
+            "name": "Saravanan, Sanjana"
+        },
+        {
+            "affiliation": "MRC Laboratory of Medical Sciences",
+            "name": "Bartlett, Richard J."
+        },
+        {
+            "orcid": "0000-0003-3565-0479",
+            "affiliation": "University of Bristol",
+            "name": "Cross, Stephen John"
+        },
+        {
+            "affiliation": "MRC Laboratory of Medical Sciences",
+            "name": "Aragon, Luis"
+        }
+    ],
+    "title": "SMC binding analysis scripts"
+}
